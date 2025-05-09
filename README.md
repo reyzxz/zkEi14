@@ -1,4 +1,4 @@
-# Hi, I'm zkEi! 👋  
+# Hi, I'm REY! 👋  
 
 Welcome to my corner of the Web3 world! I'm a passionate **Proof-of-Stake (PoS) Validator** operating with a commitment to **high integrity**, **security**, and **performance**.  
 
