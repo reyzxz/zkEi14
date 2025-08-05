@@ -30,8 +30,6 @@ Feel free to reach out to me on my socials, where I share my journey in the Web3
 ### 📊 Validator Performance  
 I'm always working to provide the best performance in terms of **security**, **uptime**, and **blockchain network support**. Here's a snapshot of my validator performance:
 
-🔗 **[Check out my Validator Stats here!](https://beaconcha.in/validator/0x960e1712388012b679da249095dd5587e642a5abbc648b320dd81ee23c87d34662ce6f9cb0fe561a889377b37ff22b13#charts)**  
-
 - **Validator uptime:** **99.9%** – I strive to ensure my validator is operational and responsive at all times.  
 - **Security:** High Integrity, **battle-tested** – my validator operates with zero tolerance for security flaws, ensuring that every transaction and block processed is safe.  
 - **Network:** Operating within **cutting-edge PoS blockchain ecosystems** – I support emerging PoS networks that prioritize decentralization, scalability, and security.
