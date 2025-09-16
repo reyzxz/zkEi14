@@ -59,4 +59,5 @@ Always learning, always improving! 🧠💡
 ---
 
 Let's connect, collaborate, and explore the amazing potential of Web3 together. 🚀
-REY is pushing the Web3 frontier! #Commit1
+
+🚀 REY is pushing the Web3 frontier! #Commit1
