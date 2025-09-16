@@ -71,3 +71,5 @@ Let's connect, collaborate, and explore the amazing potential of Web3 together. 
 ⚡ Pipe Network Node mastery #Commit5
 
 🔒 zkForge zero-knowledge magic #Commit6
+
+💻 zkForge script example #Commit7
