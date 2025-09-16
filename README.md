@@ -73,3 +73,5 @@ Let's connect, collaborate, and explore the amazing potential of Web3 together. 
 🔒 zkForge zero-knowledge magic #Commit6
 
 💻 zkForge script example #Commit7
+
+🔧 ZK Circuits: crafting proofs #Commit8
