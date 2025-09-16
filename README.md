@@ -75,3 +75,5 @@ Let's connect, collaborate, and explore the amazing potential of Web3 together. 
 💻 zkForge script example #Commit7
 
 🔧 ZK Circuits: crafting proofs #Commit8
+
+⚡ Multiplier template ready #Commit9
