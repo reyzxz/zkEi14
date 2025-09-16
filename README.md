@@ -67,3 +67,5 @@ Let's connect, collaborate, and explore the amazing potential of Web3 together. 
 🌟 CryptoChronicles highlights #Commit3
 
 ⚡ OG Airdrop Chronicles #Commit4
+
+⚡ Pipe Network Node mastery #Commit5
