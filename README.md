@@ -69,3 +69,5 @@ Let's connect, collaborate, and explore the amazing potential of Web3 together. 
 ⚡ OG Airdrop Chronicles #Commit4
 
 ⚡ Pipe Network Node mastery #Commit5
+
+🔒 zkForge zero-knowledge magic #Commit6
