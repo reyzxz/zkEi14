@@ -55,27 +55,3 @@ Feel free to explore, follow my progress, and let’s build a better decentraliz
 - **Decentralized Finance (DeFi)**
 
 Always learning, always improving! 🧠💡
-
----
-
-Let's connect, collaborate, and explore the amazing potential of Web3 together. 🚀
-
-🚀 REY is pushing the Web3 frontier! #Commit1
-
-💡 Web3 validator journey continues! #Commit2
-
-🌟 CryptoChronicles highlights #Commit3
-
-⚡ OG Airdrop Chronicles #Commit4
-
-⚡ Pipe Network Node mastery #Commit5
-
-🔒 zkForge zero-knowledge magic #Commit6
-
-💻 zkForge script example #Commit7
-
-🔧 ZK Circuits: crafting proofs #Commit8
-
-⚡ Multiplier template ready #Commit9
-
-🚀 zkflow automation for Web3 #Commit10
